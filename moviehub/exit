@@ -1,0 +1,5 @@
+ id |      email       |  role  |                        password_hash                         
+----+------------------+--------+--------------------------------------------------------------
+  1 | nida@example.com | member | $2a$10$u34s/6cACKG4XsJ.7yEInOhln5y9ZchL5C1ClPv7wqdWvyqMHoicK
+(1 row)
+
